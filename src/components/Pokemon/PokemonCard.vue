@@ -105,4 +105,7 @@
   &__id
     padding: 5px
     pointer-events: none
+
+  &:last-of-type
+    margin-bottom: 5em
 </style>
